@@ -96,6 +96,7 @@ User experience analysis includes investigating user’s subjective rating or op
 
 ### 4.1. Result of survey
 We designed a easy questionnaire to investigate students from Zhejiang University about their experience of using PAT. Result indicated that majority of users are sophomores(86.67％) and boys(80％). They used the platform mainly to do exercises and learning. The average score of style, layout, interaction and function was respectively 4.70, 4.73, 4.33, 4.50. 
+
 ![4.1.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.1.png?raw=true)
 ![4.1.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.2.png?raw=true)
 ![4.1.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.3.png?raw=true)
