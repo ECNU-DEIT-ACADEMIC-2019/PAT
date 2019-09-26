@@ -91,3 +91,32 @@ In general, the teaching interaction of PAT platform is relatively complete, inc
 The interactivity of PAT website is better overall, pay attention to user experience, easy to operate, easy for users to grasp.For example, when the mouse moves to an operational position, the system will give immediate feedback and perform the user's operation.Most operation pages can be returned to the main page by clicking the PAT logo in the upper left corner.
 However, as the accompanying courses and exercises are directly linked to external websites, to return to the interface of PAT platform, one can only click back or re-enter, which needs to be improved.
 
+## 4. User experience
+User experience analysis includes investigating user’s subjective rating or opinion reacting to using PAT and analysing the function, style, color, layout, interaction of system based on design principles.
+
+### 4.1. Result of survey
+We designed a easy questionnaire to investigate students from Zhejiang University about their experience of using PAT. Result indicated that majority of users are sophomores(86.67％) and boys(80％). They used the platform mainly to do exercises and learning. The average score of style, layout, interaction and function was respectively 4.70, 4.73, 4.33, 4.50. 
+
+### 4.2. Style
+The platform generally adopted a simple style and neutral color.Compared with the complex design style, simplified design conforms to the theory of cognitive psychology, which strengthens the visual center and provides appropriate blank space.In addition, simplified design helps to screen out redundant information resources and enables users to obtain useful information efficiently.
+
+### 4.3. Layout
+From the perspective of psychology, the memory capacity and time of users are limited. Dealing with more than seven objects at the same time causes cognitive load. 
+It is necessary to control the amount of information transmitted, organize the layout in harmony to achieve a rich, balanced and consistent visual effect.The layout of PAT applied the principles in order to save browsing time and improve learning efficiency.
+
+### 4.4. Interactive response
+On the whole, PAT applies a fairly good interaction with fast and effective response, considering operability and complexity.For example, when the mouse moves to an operable position, the platform will immediately give feedback and perform user operations.    
+
+### 4.5. Function
+The most popular function of PAT lies in its examination section which provides programming test exercises. Compared with similar learning platform such as LeetCode (www.leetcode.com), PAT has a larger question database and topics.At the same time, after submitting the source code, the system will give feedback timely through the background evaluation, which contributes to finding problems and solving problems for users.
+In addition, the questions provided by the platform are very interesting. It is not difficult to find interesting titles such as "Play cute", "Single Dog", "Microblog Forwarding Lottery" and so on, which greatly motivates the user's learning interest.
+
+
+## 5. Limitation and suggestions
+### 5.1. Prompts and instructions should be given if the code runs into an error.
+### 5.2. As the accompanying courses and exercises are directly linked to external websites, to return to the interface of PAT platform, one can only click back or re-enter, which needs to be improved.
+### 5.3. An online assistant can be set to answer questions online at any time to answer any questions encountered by users in the process of using the platform, so as to enhance the intelligence and sense of belonging of the platform.
+
+
+
+
