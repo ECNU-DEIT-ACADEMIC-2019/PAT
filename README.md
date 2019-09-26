@@ -96,9 +96,9 @@ User experience analysis includes investigating user’s subjective rating or op
 
 ### 4.1. Result of survey
 We designed a easy questionnaire to investigate students from Zhejiang University about their experience of using PAT. Result indicated that majority of users are sophomores(86.67％) and boys(80％). They used the platform mainly to do exercises and learning. The average score of style, layout, interaction and function was respectively 4.70, 4.73, 4.33, 4.50. 
-![4.1.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.1.jpg?raw=true)
-![4.1.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.2.jpg?raw=true)
-![4.1.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.3.jpg?raw=true)
+![4.1.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.1.png?raw=true)
+![4.1.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.2.png?raw=true)
+![4.1.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.3.png?raw=true)
 
 ### 4.2. Style
 The platform generally adopted a simple style and neutral color.Compared with the complex design style, simplified design conforms to the theory of cognitive psychology, which strengthens the visual center and provides appropriate blank space.In addition, simplified design helps to screen out redundant information resources and enables users to obtain useful information efficiently.
@@ -116,9 +116,9 @@ In addition, the questions provided by the platform are very interesting. It is 
 
 
 ## 5. Limitation and suggestions
-### 5.1. Prompts and instructions should be given if the code runs into an error.
-### 5.2. As the accompanying courses and exercises are directly linked to external websites, to return to the interface of PAT platform, one can only click back or re-enter, which needs to be improved.
-### 5.3. An online assistant can be set to answer questions online at any time to answer any questions encountered by users in the process of using the platform, so as to enhance the intelligence and sense of belonging of the platform.
+#### 5.1. Prompts and instructions should be given if the code runs into an error.
+#### 5.2. As the accompanying courses and exercises are directly linked to external websites, to return to the interface of PAT platform, one can only click back or re-enter, which needs to be improved.
+#### 5.3. An online assistant can be set to answer questions online at any time to answer any questions encountered by users in the process of using the platform, so as to enhance the intelligence and sense of belonging of the platform.
 
 
 
