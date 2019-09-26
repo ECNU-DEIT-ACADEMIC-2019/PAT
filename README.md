@@ -12,48 +12,62 @@ The website has eight modules, namely the home page, enter registration, news, P
 
 #### 1.2.1. The Home Page
 When you enter the homepage, you will see the latest exam registration information, as well as the buttons related to the exam-related courses, exam information, check-ups, and real-question exercises. Users can do course study and test exercises here. The purpose of the entire site is very clear. At the same time, the home page serves to navigate the entire site.
- 
+![1.2.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.1.jpg?raw=true)
 
 #### 1.2.1.1. Supporting Course
 You can take exam-related courses here, and the course resources are provided by iCourse website.
- 
+![1.2.1.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.1.1.jpg?raw=true)
 
 #### 1.2.1.2. Test Information
 You can get test information here.
- 
+![1.2.1.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.1.2.jpg?raw=true) 
 
 #### 1.2.1.3. Certificate
 You can check your certificate here.
- 
+![1.2.1.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.1.3.jpg?raw=true)
 
 #### 1.2.1.4. Test exercises
 You can practice different levels of test exercises here.
+![1.2.1.4](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.1.4.jpg?raw=true)
  
 
 #### 1.2.2. Registration
 The registration interface displays relevant exam information and registration steps.
+![1.2.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.2.jpg?raw=true)
  
 
 #### 1.2.3. News:
 The news interface is used to present news related to the PAT exam, such as new colleges and universities, companies and other news.
+![1.2.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.3.jpg?raw=true)
  
 
 #### 1.2.4. PAT Introduction
 PAT introduction section includes basic information on the PAT exam, including information for candidates, company alliances, exam syllabus, grades and certificates, and college alliances.
+![1.2.4](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.4.jpg?raw=true)
 
  
 #### 1.2.5. Company Alliances
 PAT provides a standardized reference for corporate recruitment and selection of outstanding IT talents, and can reduce recruitment costs, which is welcomed by more and more corporate human resources departments and IT technology departments. Company alliance interface provides information such as PAT alliance company information and the process of joining for companies.
+![1.2.5](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.5.jpg?raw=true)
  
 
 #### 1.2.6. Test Center Alliance
 Test center alliance interface provides test places information across the country.
+![1.2.6](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.6.jpg?raw=true)
+
  
 #### 1.2.7. Badge Mall
 You can purchase badges in the badge store by taking PAT and obtaining a certificate.
+![1.2.7](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.7.jpg?raw=true)
+
  
 #### 1.2.8. Personal Information
 About yourself.
+![1.2.8](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/1.2.8.jpg?raw=true)
+
+
+
+
  
 ## 3.interaction
 We will introduce from two aspects of instructional interaction and interface interaction.The instructional interaction of E-learning platform is defined as the method and process of information exchange among teaching elements supported by the network teaching environment, which mainly includes teacher-student interaction, student-student interaction and teacher-student and learning materials.
