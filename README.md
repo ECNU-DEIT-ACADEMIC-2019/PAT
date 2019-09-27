@@ -83,32 +83,32 @@ In the process of platform learning, teachers assume the roles of organizer, men
 
 #### 3.1.2.Student-student interaction
 In the process of using the platform for learning, the interaction and collaboration between students can help eliminate the sense of loneliness and create a collective learning atmosphere.  PAT platform fully realizes the interaction between students and students, which is mainly reflected in the classroom communication area, comprehensive discussion area, test assignment discussion area and programming software communication area.Classroom communication area is mainly for learning content to ask, discuss,;Comprehensive discussion forum is not limited to courses, such as course certificate, language environment, etc.The discussion section of test assignments discusses and exchanges specific questions on specific tests.Programming software communication area is mainly for programming software communication.Each district has its own discussion topic to meet learners' personalized learning needs and enrich their learning experience, so as to master the knowledge more comprehensively and deeply.
-![3.2.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.2.1.png?raw=true)
-![3.2.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.2.2.png?raw=true)
-![3.2.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.2.3.png?raw=true)
-![3.2.4](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.2.4.png?raw=true)
+![3.2.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.2.1.PNG?raw=true)
+![3.2.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.2.2.PNG?raw=true)
+![3.2.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.2.3.PNG?raw=true)
+![3.2.4](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.2.4.PNG?raw=true)
 
 #### 3.1.3.Resource interaction
 Resource interaction means that teachers release learning contents and tasks through the platform, such as courseware, tests, reference materials, etc. Students complete the tasks through learning resources.It is reflected in the courseware, tests and assignments, textbooks and online reference materials of PAT platform.The resources provided by the supporting courses include video, lecture notes, literature, etc., which are available for students to download and save and facilitate students to expand their knowledge. 
-![3.3.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.1.png?raw=true)
-![3.3.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.2.png?raw=true)
+![3.3.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.1.PNG?raw=true)
+![3.3.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.2.PNG?raw=true)
 
 In the PAT platform exercise module, there are C language program, data structure and other topic sets, which can help students systematically train their programming knowledge and skills.After entering the exercise module and submitting it, time consumption, scores and correct answers will be displayed.If you enter the submission list on the left, you can see the title submitted by the user, and click the serial number of the title to directly open the specific title.The ranking list on the left shows the ranking of all users.The exercises can help students to independently choose the question bank of the exercises, and have immediate feedback, as well as their own ranking in all users, which is conducive to positioning their learning level and enhancing their learning motivation.
-![3.3.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.3.png?raw=true)
-![3.3.4](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.4.png?raw=true)
-![3.3.5](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.5.png?raw=true)
-![3.3.6](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.6.png?raw=true)
+![3.3.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.3.PNG?raw=true)
+![3.3.4](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.4.PNG?raw=true)
+![3.3.5](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.5.PNG?raw=true)
+![3.3.6](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.3.6.PNG?raw=true)
 
 #### 3.1.4.Summary
 In general, the teaching interaction of PAT platform is relatively complete, including teacher-student interaction, student-student interaction and resource interaction.However, it is almost all reflected in the discussion board and exercise module, where appropriate interaction modes can be set in other sections. For example, a small assistant can be set to answer questions online at any time to answer any questions encountered by users in the process of using the platform, so as to enhance the intelligence and sense of belonging of the platform.
 
 ### 3.2.Interface interaction
 The interactivity of PAT website is better overall, pay attention to user experience, easy to operate, easy for users to grasp.For example, when the mouse moves to an operational position, the system will give immediate feedback and perform the user's operation.Most operation pages can be returned to the main page by clicking the PAT logo in the upper left corner.
-![3.4.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.4.1.png?raw=true)
+![3.4.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.4.1.PNG?raw=true)
 
 However, as the accompanying courses and exercises are directly linked to external websites, to return to the interface of PAT platform, one can only click back or re-enter, which needs to be improved.
-![3.4.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.4.2.png?raw=true)
-![3.4.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.4.3.png?raw=true)
+![3.4.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.4.2.PNG?raw=true)
+![3.4.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.4.3.PNG?raw=true)
 
 ## 4. User experience
 User experience analysis includes investigating user’s subjective rating or opinion reacting to using PAT and analysing the function, style, color, layout, interaction of system based on design principles.
