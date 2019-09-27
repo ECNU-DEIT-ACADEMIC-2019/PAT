@@ -119,6 +119,7 @@ We designed a easy questionnaire to investigate students from Zhejiang Universit
 ![4.1.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.1.png?raw=true)
 ![4.1.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.2.png?raw=true)
 ![4.1.3](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.3.png?raw=true)
+![4.1.4](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/4.1.4.png?raw=true)
 
 ### 4.2. Style
 The platform generally adopted a simple style and neutral color.Compared with the complex design style, simplified design conforms to the theory of cognitive psychology, which strengthens the visual center and provides appropriate blank space.In addition, simplified design helps to screen out redundant information resources and enables users to obtain useful information efficiently.
