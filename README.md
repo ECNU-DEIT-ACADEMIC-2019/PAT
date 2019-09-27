@@ -74,12 +74,12 @@ We will introduce from two aspects of instructional interaction and interface in
 
 ### 3.1.Instructional interaction
 The instructional interaction of the PAT website we chose is mainly reflected in the discussion boards, courseware, quizzes and other sections of the supporting courses.The supporting courses of PAT platform are directly linked to the MOOC network of Chinese universities. The discussion section is divided into five sub-sections, namely, teacher answer section, classroom communication section, comprehensive discussion section, test assignment discussion section and programming software communication section.
-![3.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.1.png?raw=true)
+![3.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.1.PNG?raw=true)
 
 #### 3.1.1.Teacher-student interaction
 In the process of platform learning, teachers assume the roles of organizer, mentor and helper.。Immediate and effective interaction between teachers and students can correctly guide and supervise students to complete the learning process successfully. In PAT platform, the teacher-student interaction is mainly reflected in the teacher’answer area and classroom communication area.Students can post their doubts to the teacher's answer area and classroom communication area, and the teacher can give feedback and suggestions on students' questions at any time, so as to promote further learning.
-![3.1.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.1.1.png?raw=true)
-![3.1.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.1.2.png?raw=true)
+![3.1.1](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.1.1.PNG?raw=true)
+![3.1.2](https://github.com/ECNU-DEIT-ACADEMIC-2019/PAT/blob/master/3.1.2.PNG?raw=true)
 
 #### 3.1.2.Student-student interaction
 In the process of using the platform for learning, the interaction and collaboration between students can help eliminate the sense of loneliness and create a collective learning atmosphere.  PAT platform fully realizes the interaction between students and students, which is mainly reflected in the classroom communication area, comprehensive discussion area, test assignment discussion area and programming software communication area.Classroom communication area is mainly for learning content to ask, discuss,;Comprehensive discussion forum is not limited to courses, such as course certificate, language environment, etc.The discussion section of test assignments discusses and exchanges specific questions on specific tests.Programming software communication area is mainly for programming software communication.Each district has its own discussion topic to meet learners' personalized learning needs and enrich their learning experience, so as to master the knowledge more comprehensively and deeply.
